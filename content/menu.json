@@ -1,5 +1,13 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "temperos-diarios",
+    "temperos-e-especiarias",
+    "para-doces-e-sobremesas",
+    "para-carnes-e-churrascos",
+    "para-pratos-salgados",
+    "chas-e-infusoes",
+    "funcionais-e-medicinais"
+  ],
   "alphabetical_order": false,
   "phone_wpp": true,
   "socials": true
