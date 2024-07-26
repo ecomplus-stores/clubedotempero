@@ -15,13 +15,14 @@
   "menu_all_departments": false,
   "centralized_logo": false,
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "Confira nosso Fantástico Colorau feito de Arroz!",
+    "link": "/promotion",
+    "background": ""
   },
   "alphabetical_order_submenu": false,
-  "name_all_departments": "Todos os Temperos",
+  "name_all_departments": "Explorar Todos",
   "search_input": false,
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "full_width_submenu": false,
   "contacts_stripe": {
     "pages": [
