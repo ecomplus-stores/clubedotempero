@@ -1,25 +1,25 @@
 {
   "domain": "clubedotempero.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "",
+  "primary_color": "#b72424",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "icons_font": "_",
-  "font_family": "_",
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo.png",
-  "name": "My Shop",
-  "short_name": "My Shop",
+  "logo": "/img/uploads/logotipo.svg",
+  "name": "Clube do Tempero",
+  "short_name": "Clube do Tempero",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "font_family": "_",
+  "favicon": "/img/uploads/social.svg",
+  "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "",
-  "icon": "/img/icon.png",
+  "secondary_color": "#1a5533",
+  "icon": "/img/uploads/social.svg",
   "store_id": 51544,
-  "description": "My PWA Shop",
-  "large_icon": "/img/large-icon.png"
+  "description": "Os melhores temperos do Brasil",
+  "large_icon": "/img/uploads/social.svg"
 }
