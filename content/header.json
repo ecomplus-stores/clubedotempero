@@ -1,19 +1,27 @@
 {
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/temperos-diarios?Temperos Diários",
+      "/temperos-e-especiarias?Temperos e Especiarias",
+      "/para-doces-e-sobremesas?Para Doces e Sobremesas",
+      "/para-carnes-e-churrascos?Para Carnes e Churrascos",
+      "/para-pratos-salgados?Para Pratos Salgados",
+      "/chas-e-infusoes?Chás e Infusões",
+      "/funcionais-e-medicinais?Funcionais e Medicinais"
+    ],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "menu_all_departments": false,
-  "centralized_logo": true,
+  "centralized_logo": false,
   "marketing_stripe": {
     "text": "Aproveite nossos descontos de até 50%!",
     "link": "/promotion"
   },
   "alphabetical_order_submenu": false,
-  "name_all_departments": "",
-  "search_input": true,
-  "desktop_megamenu": true,
+  "name_all_departments": "Todos os Temperos",
+  "search_input": false,
+  "desktop_megamenu": false,
   "full_width_submenu": false,
   "contacts_stripe": {
     "pages": [
