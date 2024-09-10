@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.5c67f71e667822c939ed0728be5e513d.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon_384x384.5c67f71e667822c939ed0728be5e513d.svg",
+      "sizes": "384x384",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon_192x192.5c67f71e667822c939ed0728be5e513d.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon_128x128.5c67f71e667822c939ed0728be5e513d.svg",
+      "sizes": "128x128",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon_96x96.5c67f71e667822c939ed0728be5e513d.svg",
+      "sizes": "96x96",
+      "type": "image/svg+xml"
+    }
+  ],
+  "name": "Clube do Tempero",
+  "short_name": "Clube do Tempero",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Os melhores temperos do Brasil",
+  "background_color": "#ffffff",
+  "theme_color": "#b72424"
+}
